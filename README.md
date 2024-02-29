@@ -1,5 +1,7 @@
 # Stock-Chart-Analyzer
 
+![Result](https://freeimage.host/i/JM79qWF)
+
 This project leverages Google's Generative AI API and Gradio to create an intuitive web interface for analyzing stock charts. Users can upload images of stock charts, and the application provides detailed analysis, including company overview, pattern recognition, technical analysis, and sentiment prediction. This tool is designed for traders, investors, and financial analysts looking to gain insights into potential future movements of stock prices based on historical chart patterns.
 
 ## Features
