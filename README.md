@@ -24,7 +24,7 @@ Follow these steps to get your development environment set up:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/stock-chart-analyzer.git
+git clone https://github.com/fuchenru/Stock-Chart-Analyzer.git
 ```
 
 2. **Install the required packages**
